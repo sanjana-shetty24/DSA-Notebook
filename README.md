@@ -28,6 +28,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -50,4 +51,12 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
