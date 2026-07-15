@@ -38,4 +38,16 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
