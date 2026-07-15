@@ -1,6 +1,6 @@
 # DSA Notebook
 
-A structured collection of LeetCode solutions in Java with explanations, dry runs, and complexity analysis.
+A structured collection of LeetCode solutions in Java with explanations, dry runs and complexity analysis.
 
 # Language
 - Java
