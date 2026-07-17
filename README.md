@@ -30,6 +30,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 | [0001-two-sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,8 +56,17 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
