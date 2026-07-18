@@ -33,6 +33,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
