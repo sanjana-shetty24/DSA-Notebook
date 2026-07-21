@@ -29,6 +29,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 | ------- |
 | [0001-two-sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0152-maximum-product-subarray) |
@@ -47,6 +48,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0217-contains-duplicate) |
 ## Linked List
@@ -77,6 +79,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0287-find-the-duplicate-number) |
