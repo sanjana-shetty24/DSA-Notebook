@@ -34,6 +34,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,6 +47,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -116,4 +118,8 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
