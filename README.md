@@ -34,6 +34,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0152-maximum-product-subarray) |
@@ -121,5 +122,10 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
