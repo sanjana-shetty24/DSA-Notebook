@@ -33,6 +33,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 | [0015-3sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0073-set-matrix-zeroes) |
@@ -66,6 +67,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
