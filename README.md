@@ -44,6 +44,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 | [0169-majority-element](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0724-find-pivot-index) |
 ## Hash Table
@@ -119,6 +120,7 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +135,16 @@ A structured collection of LeetCode solutions in Java with explanations, dry run
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0054-spiral-matrix) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sanjana-shetty24/DSA-Notebook/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
